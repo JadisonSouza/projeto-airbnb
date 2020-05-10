@@ -1,0 +1,271 @@
+/** Logos e ícones **/
+
+#logo {
+    width: 150px;
+    margin: 50px;
+    
+}
+
+#globo {
+    width: 15px;
+
+}
+
+/** Divisões do menu **/
+
+
+
+#menu-superior {
+    position: absolute;
+    top: 60px;
+    right: 10px;
+    
+}
+
+#menu-links {
+    display: inline;
+
+}
+
+#menu-principal {
+    position: relative;
+
+}
+
+
+
+/** Divisões do conteúdo **/
+
+#conteudo-principal {
+    font-size: 1em;
+
+}
+
+#conteudo-1 {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+#conteudo-2 {
+    justify-content: space-between;
+    display: flex;
+    color: white;
+    background: black;
+
+}
+
+#propriedades {
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+.property-type > img {
+    width: 400px;
+    margin: 50px;
+    border: 1px solid grey;
+    box-shadow: grey 1px 1px 3px;
+    border-radius: 2px;
+    
+
+
+}
+
+.property-type p {
+    text-align: center;
+    color: white;
+    
+}
+
+.property-type {
+    background-color: black;
+    margin-bottom: 50px;
+}
+
+#titulo-hosp {
+    color: darkred;
+    text-shadow:  darkmagenta 1px 1px 2px;
+}
+
+
+/**botões**/
+
+.comprar {
+    background-color: darkred;
+    border: none;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 4px;
+
+}
+
+#explorar {
+    position: absolute;
+    right: 50px;
+    top: 10px;
+    padding: 8px 20px;
+    color: white;
+    border: solid white;
+    background-color: black;
+    border-radius: 10px;
+
+    
+
+
+}
+
+#buscar {
+    background-color: darkred;
+    border: none;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 4px;
+
+}
+
+/**Fim botões**/
+
+#apresentacao-exp {
+    position: relative;
+    color: white;
+    background: black;
+    padding: 80px;
+    
+
+}
+
+#segunda-parte {
+    background: black;
+    margin: 50px -70px;
+}
+
+/** Imagens da Home **/
+
+.imagens-home {
+    width: 350px;
+    padding: 70px;
+
+}
+
+.imagens-home-2 {
+    margin: 0px auto;
+
+}
+
+.imagens-home-2 p {
+    background: lightgrey;
+    margin-top: none;
+    border-radius: 25px;
+    padding: 10px;
+    
+
+}
+
+.img-home-sup {
+    width: 10%;
+    border-radius: 25px;
+
+}
+
+h3 + p {
+    font-size: 0.8em;
+    text-align: left;
+}
+
+.imagens-home img {
+    width: 300px;
+}
+
+.imagens-home h3 p {
+    display: inline;
+    
+    
+}
+
+
+.img-home-inf {
+    margin-bottom: none;
+    border-radius: 25px;
+    
+}
+
+
+
+/** Término da imagens da Home **/
+
+li {
+    display: inline;
+    margin: 10px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+body {
+    font: Monospace;
+    font-size: 1em;
+}
+
+span {
+    margin: 10px;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 50px;
+    
+
+}
+
+#titulo {
+    color:darkred;
+    font-size: 2.5em;
+    text-shadow:  darkmagenta 1px 1px 2px;
+}
+
+table {
+    text-align: center;
+    font-size: 0.8em;
+    margin: 20px auto;
+    padding: 20px;
+    
+}
+
+
+
+.rodape-img {
+    width: 20px;
+}
+
+#direito-redes {
+    text-align: center;
+}
+
+.endereco-hosp {
+    width: 25%;
+    height: 40px;
+    border-radius: 4px;
+    
+}
+
+/** EFEITOS DE HOVER **/
+
+a:hover {
+    color: grey;
+}
+
+#explorar:hover {
+    background-color: grey;
+}
+
+#buscar:hover {
+    background-color: red;
+}
+
